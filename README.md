@@ -14,7 +14,6 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/lakshyapandey--" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lakshyapandey--" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/lakshya_pandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/lakshya_pandey/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/lakshyapap4ex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/lakshyapap4ex" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/263139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="263139" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyapandey3&show_icons=true&locale=en&layout=compact" alt="lakshyapandey3" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyapandey3&show_icons=true&locale=en" alt="lakshyapandey3" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyapandey3&show_icons=true&locale=en" alt="lakshyapandey3" /></p>
