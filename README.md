@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lakshya Pandey</h1>
 <h3 align="center">A passionate Software developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyapandey3&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyapandey3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshyapandey3" alt="lakshyapandey3" /></a> </p>
+
 
 - 📫 How to reach me **lakshyapandey327@gmail.com**
 
@@ -20,5 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyapandey3&show_icons=true&locale=en&layout=compact" alt="lakshyapandey3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyapandey3&show_icons=true&locale=en" alt="lakshyapandey3" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyapandey3&show_icons=true&locale=en" alt="lakshyapandey3" /></p>
